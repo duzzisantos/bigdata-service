@@ -1,0 +1,6 @@
+@BigDataManager_HostAddress = http://localhost:5216
+
+GET {{BigDataManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
